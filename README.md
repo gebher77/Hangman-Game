@@ -2,7 +2,8 @@
 
 Hangman Game in C is a practice project designed to help improve C programming skills. This simple game allows you to guess letters to reveal a hidden word and includes a feature to add new words to the game's vocabulary.
 
-![Hangman Game Screenshot](https://prnt.sc/xEXJ42wZl7Gx)
+![image](https://github.com/gebher77/Hangman-Game/assets/169497254/1233f236-6701-4700-a02a-92d5ce4799f8)
+
 
 🚀 Features
 
